@@ -10,6 +10,7 @@
     * [unc0ver](doing_jailbreak/do_jailbreak/unc0ver.md)
     * [cherkra1n](doing_jailbreak/do_jailbreak/cherkra1n.md)
 * [越狱后](after_jailbreak/README.md)
+  * [恢复越狱](after_jailbreak/restore_jailbreak/README.md)
   * [文件管理](after_jailbreak/file_management/README.md)
   * [包管理器](after_jailbreak/package_management/README.md)
     * [Cydia](after_jailbreak/package_management/cydia/README.md)

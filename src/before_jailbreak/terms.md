@@ -2,11 +2,11 @@
 
 越狱前，要了解很多基本概念：
 
-## `jailbreak`=越狱
+## `jb`=`jailbreak`=越狱
 
 * 类比：iPhone=iOS系统，就像一个监狱
   * 普通iPhone的用户，就像在监狱内，虽然被iOS系统管理约束着，也很安全，但是失去了很多自由
-  * 想要更加自由，就要：越狱
+  * 想要更加自由，就要从监狱中逃出来 = 越狱
   * 摆脱iOS系统的约束，拥有更多自由
   * 可以安装更多更好的插件、应用等，做之前非越狱时的不能做的各种事情
 
@@ -32,7 +32,7 @@ iOS系统内有个默认的，自带的应用：SpringBoard
     * Mac中通过ssh进入iPhone的命令行
     * iPhone中通过终端类插件进入命令行
   * 具体命令
-    * killall SpringBoard
+    * `killall SpringBoard`
 
 ## `uicache`=清除界面缓存
 
@@ -43,4 +43,4 @@ iOS系统内有个默认的，自带的应用：SpringBoard
 * （通过某些工具）安装了app后，uicache后，桌面上才能看到已安装的app的图标
 * 删除了app后，由于某些原因，需要uicache后，桌面上的app图标才消失
 清理UI的cache缓存，有个专门的工具叫做：
-* uicache
+* `uicache`
