@@ -44,3 +44,7 @@ iOS系统内有个默认的，自带的应用：SpringBoard
 * 删除了app后，由于某些原因，需要uicache后，桌面上的app图标才消失
 清理UI的cache缓存，有个专门的工具叫做：
 * `uicache`
+
+TODO：
+
+* 【整理】UICache是什么和作用

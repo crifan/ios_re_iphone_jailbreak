@@ -1,6 +1,6 @@
 {
   "title": "iOS逆向开发：iPhone越狱",
-  "description": "iOS逆向开发系列教程之iPhone越狱，介绍如何给iPhone手机越狱，以及越狱后的各种事项，包括多种文件管理、包管理等，以及其他常用辅助工具比如爱思助手等。",
+  "description": "iOS逆向开发系列教程之iPhone越狱，先是越狱的概述，再介绍越狱前要选择合适越狱工具，比如unc0ver、checkra1n等；以及越狱中，如何用unc0ver、checkra1n给iPhone手机越狱，以及越狱后的各种事项，包括恢复越狱、文件管理、包管理的Cydia和Sileo、辅助工具爱思助手和安装ipa。",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [

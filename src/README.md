@@ -1,11 +1,11 @@
 # iOS逆向开发：iPhone越狱
 
-* 最新版本：`v0.7`
-* 更新时间：`20221020`
+* 最新版本：`v0.8`
+* 更新时间：`20221027`
 
 ## 简介
 
-iOS逆向开发系列教程之iPhone越狱，介绍如何给iPhone手机越狱，以及越狱后的各种事项，包括多种文件管理、包管理等，以及其他常用辅助工具比如爱思助手等。
+iOS逆向开发系列教程之iPhone越狱，先是越狱的概述，再介绍越狱前要选择合适越狱工具，比如unc0ver、checkra1n等；以及越狱中，如何用unc0ver、checkra1n给iPhone手机越狱，以及越狱后的各种事项，包括恢复越狱、文件管理、包管理的Cydia和Sileo、辅助工具爱思助手和安装ipa。
 
 ## 源码+浏览+下载
 
@@ -30,9 +30,11 @@ iOS逆向开发系列教程之iPhone越狱，介绍如何给iPhone手机越狱�
 * [iOS逆向开发：iPhone越狱 ePub](https://book.crifan.org/books/ios_re_iphone_jailbreak/epub/ios_re_iphone_jailbreak.epub)
 * [iOS逆向开发：iPhone越狱 Mobi](https://book.crifan.org/books/ios_re_iphone_jailbreak/mobi/ios_re_iphone_jailbreak.mobi)
 
-## 版权说明
+## 版权和用途说明
 
-此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+此电子书教程的全部内容，如无特别说明，均为本人原创。其中部分内容参考自网络，均已备注了出处。如有版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+
+各种技术类教程，仅作为学习和研究使用。请勿用于任何非法用途。如有非法用途，均与本人无关。
 
 ## 鸣谢
 
