@@ -45,19 +45,6 @@
       * 这样对于之前的兼容性会更好
       * 很多插件等，应该可以正常工作了
       * 比如希望的`frida`等等
-  * 越狱的核心步骤
-    * Mac中给iPhone越狱
-      * Mac中
-        * 下载Mac版的`palera1n-macos-universal`
-          * 此处版本：palera1n v2.0.0-beta.4
-        * `palera1n -c -f`
-          * Enter
-          * 进入DFU模式
-            * 长按 `音量减键`➖ 和 `电源键`
-            * （不要松手，继续）长按 `音量减键`➖
-        * `palera1n -c`
-      * iPhone中
-        * palera1n的app中：点击`Install`
 
 ## palera1n越狱的前提条件
 
