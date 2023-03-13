@@ -28,10 +28,9 @@
         * 进入DFU模式
           * 长按 `音量减键`➖ 和 `电源键`
           * （不要松手，继续）长按 `音量减键`➖
-      * `palera1n -c`
+      * `palera1n -f`
     * iPhone中
       * palera1n的app中：点击`Install`
-
 
 ## 用palera1n给iOS 15.0的iPhone8越狱的详细过程
 

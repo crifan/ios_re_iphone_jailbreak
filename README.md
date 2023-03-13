@@ -1,11 +1,11 @@
 # iOS逆向开发：iPhone越狱
 
-* 最新版本：`v1.1`
-* 更新时间：`20230309`
+* 最新版本：`v1.3`
+* 更新时间：`20230313`
 
 ## 简介
 
-iOS逆向开发系列教程之iPhone越狱，先是越狱的概述，再介绍越狱前要选择合适越狱工具，比如unc0ver、checkra1n、palera1n、XinaA15等；以及越狱中，如何用unc0ver、checkra1n、palera1n等工具给iPhone手机越狱，以及越狱后的各种事项，包括恢复越狱、文件管理、包管理的Cydia和Sileo、辅助工具爱思助手和安装ipa。
+iOS逆向开发系列教程之iPhone越狱，先是越狱的概述，再介绍越狱前要选择合适越狱工具，比如unc0ver、checkra1n、palera1n、XinaA15等；以及越狱中，如何用unc0ver、checkra1n、palera1n等工具给iPhone手机越狱，以及越狱后的各种事项，包括恢复越狱、文件管理、包管理器、辅助工具爱思助手和安装ipa。
 
 ## 源码+浏览+下载
 
