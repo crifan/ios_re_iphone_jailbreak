@@ -27,4 +27,25 @@
 * 【记录】越狱相关：TrollStore
 * 【记录】TrollStore升级到最新版1.5.0
 * 【已解决】iOS 15.1的iPhone11中安装TrollStore
+* 【记录】重新用微信传输并打开再用TrollStore安装XinaA15最新版1.1.8的ipa
+* 【已解决】卸载并重新用XinaA15给iPhone11越狱
+* 【已解决】iOS 15.1的iPhone11中安装XinaA15
+* 【已解决】如何安装XinaA15
+* 【记录】下载XinaA15的ipa文件
+* 【未解决】XinaA15越狱iPhone11后如何使用
+* 【记录】用爱思助手查看XinaA15越狱后的iPhone信息
+* 【已解决】XinaA15越狱后iPhone11中如何使用ssh
+* 【记录】XinaA15越狱的iPhone11重启后越狱是否丢失
+* 【记录】重启iPhone并恢复XinaA15的越狱
+* 【已解决】XinaA15重新恢复越狱环境
+* 【已解决】升级XinaA15到新版本1.1.8再重新越狱
+* 【已解决】用新版1.1.8的XinaA15重新越狱
+* 【记录】iPhone11重新安装XinaA15和重新用XinaA15越狱
+* 【已确认】iPhone11中重新确认新版XinaA和新版Frida是否可以正常使用
+* 【记录】看看新版1.1.8的XinaA15各个功能和界面
+* 【已解决】iOS逆向：卸载XinaA15
+* 【记录】iPhone11升级1.1.8新版XinaA15重新越狱后
+* 【记录】升级XinaA15后重新初始化TrollStore巨魔
+* 【未解决】iOS 15的iPhone越狱
+* 【整理】iOS15越狱相关：越狱插件软件源
 * 

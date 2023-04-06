@@ -32,3 +32,7 @@
   * 一般用
     * [palera1n](https://palera.in/)
     * [XinaA15](https://xina.ss03.cn/)
+  * 其他可能有用的
+    * `Cheyote`
+    * `Fugu15`
+    * `Blizzard Jailbreak`

@@ -11,8 +11,8 @@
     * iOS版本：`iOS 15.0`~`iOS 15.1.1`
       * 此处：`15.1`
   * 图
-    * ![iphone11_ios_15_1](../../assets/img/iphone11_ios_15_1.png)
-    * ![iphone11_main_ui](../../assets/img/iphone11_main_ui.png)
+    * ![iphone11_ios_15_1](../../../assets/img/iphone11_ios_15_1.png)
+    * ![iphone11_main_ui](../../../assets/img/iphone11_main_ui.png)
 
 ## `XinaA15`给`iOS 15.1`的`iPhone11`越狱过程
 
@@ -25,10 +25,6 @@
   * 去XinaA15官网，下载最新版XinaA15的ipa文件
   * 用TrollStore安装XinaA15的app（ipa文件）
   * 进入XinaA15的app中，点击：开启越狱
-  * 重启桌面，重新进入XinaA15的app，看到提示：当前已在越狱状态中，则表示：越狱成功
+  * 重启桌面，再次进入XinaA15的app，看到提示：当前已在越狱状态中，则表示：越狱成功
 
-## 详解
-
-TODO：
-
-整理 安装XinaA15 相关内容过来
+后续详细介绍整个过程。
