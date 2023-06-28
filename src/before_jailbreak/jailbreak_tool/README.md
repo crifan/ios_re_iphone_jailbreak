@@ -27,12 +27,11 @@
     * [checkra1n](https://checkra.in)
     * [unc0ver](https://unc0ver.dev/)
 * `iOS >15.0`
-  * 说明：截至20230302，越狱工具大多还不算很稳定，都处于开发中(in development)
-    * 所以主要是给开发者(Developer)用，不建议普通iPhone用户使用
-  * 一般用
-    * [palera1n](https://palera.in/)
-    * [XinaA15](https://xina.ss03.cn/)
-  * 其他可能有用的
-    * `Cheyote`
-    * `Fugu15`
-    * `Blizzard Jailbreak`
+  * 概述
+    * 基本可用的
+      * [palera1n](https://palera.in/)
+      * [XinaA15](https://xina.ss03.cn/)
+      * [Dopamine](https://ellekit.space/dopamine/)
+    * 根据个人经验，稳定程度大概是：`XinaA15` > `palera1n` > `Dopamine`
+  * 详解
+    * [iOS逆向：iOS15越狱](https://book.crifan.org/books/ios_re_ios15_jailbreak/website/)
