@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v2.2",
-  "lastUpdate": "20230628",
+  "latestVersion": "v2.3.0",
+  "lastUpdate": "20241129",
   "gitRepoName": "ios_re_iphone_jailbreak",
   "bookName": "iOS逆向开发：iPhone越狱",
   "bookDescription": "iOS逆向开发系列教程之iPhone越狱，先是越狱的概述，然后是越狱前需要了解的背景知识，包括jailbreak、tethered类型、respring、uicache，以及常见越狱工具unc0ver、checkra1n等；接着介绍越狱中的，即如何用unc0ver、checkra1n等工具给iPhone手机越狱，以及越狱后的各种事项，包括恢复越狱、文件管理、包管理器、辅助工具爱思助手和安装ipa。"

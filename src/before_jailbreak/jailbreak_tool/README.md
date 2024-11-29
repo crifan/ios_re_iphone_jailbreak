@@ -24,14 +24,14 @@
     * 多数都是：`iOS 12`~`iOS 14`
     * `iOS <12`，基本上很少用了
   * 常用
-    * [checkra1n](https://checkra.in)
-    * [unc0ver](https://unc0ver.dev/)
+    * [unc0ver](../../before_jailbreak/jailbreak_tool/unc0ver.md)
+    * [checkra1n](../../before_jailbreak/jailbreak_tool/checkra1n.md)
 * `iOS >15.0`
   * 概述
     * 基本可用的
-      * [palera1n](https://palera.in/)
-      * [XinaA15](https://xina.ss03.cn/)
-      * [Dopamine](https://ellekit.space/dopamine/)
+      * [XinaA15](https://book.crifan.org/books/ios_re_ios15_jailbreak/website/xinaa15/)
+      * [palera1n](https://book.crifan.org/books/ios_re_ios15_jailbreak/website/palera1n/)
+      * [Dopamine](https://book.crifan.org/books/ios_re_ios15_jailbreak/website/dopamine/)
     * 根据个人经验，稳定程度大概是：`XinaA15` > `palera1n` > `Dopamine`
   * 详解
     * [iOS逆向：iOS15越狱](https://book.crifan.org/books/ios_re_ios15_jailbreak/website/)
