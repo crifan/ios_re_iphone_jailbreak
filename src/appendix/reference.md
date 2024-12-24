@@ -14,6 +14,18 @@
 * 【已解决】Mac中用checkra1n越狱iOS 12.4.5的iPhone6
 * 【已解决】iPhone6中用checkra1n安装Cydia
 * 【记录】iPhone6越狱后用checkra1n去restore还原系统
+* 【已解决】iPhone中用unc0ver去给iOS越狱
+* 【记录】unc0ver越狱iPhone7的完整log日志
+* 【已解决】用Mac版爱思助手给iOS13的iPhone7越狱
+* 【未解决】Mac M2 Max中用爱思助手中unc0ver给iOS12.5.7的iPhone6越狱：一键越狱窗口突然消失越狱失败
+* 【已解决】iOS14.3的iPhone8：用unc0ver重新恢复越狱
+* 【已解决】Mac中用Sideloadly去给iPhone6安装unc0ver
+* 【记录】iOS12.5.7的iPhone6中用unc0ver去恢复越狱
+* 【记录】用unc0ver重新恢复越狱后的iPhone中的效果
+* 【记录】用unc0ver越狱后的iPhone8中的app情况
+* 【已解决】给用unc0ver越狱的iPhone7恢复越狱状态
+* 【记录】用unc0ver还原卸载越狱环境
+* 【已解决】iOS14.3的iPhone8：运行unc0ver执行越狱过程
 * 
 * [Help ! USB Error (Error code: -10) : r/checkra1n](https://www.reddit.com/r/checkra1n/comments/mbybs2/help_usb_error_error_code_10/)
 * [[Question] Can’t install Cydia on Chinese iPhone 8 Plus after jailbreaking with Checkra1n. I’m getting “The network connection was lost” error when I try to install Cydia using the checkra1n app. : r/jailbreak (reddit.com)](https://www.reddit.com/r/jailbreak/comments/yvexk9/question_cant_install_cydia_on_chinese_iphone_8/)
@@ -35,4 +47,6 @@
 * [Cydia 2 – Install Cydia for All iOS Versions](https://cydia2.com/)
 * [How to Install Cydia (with Pictures) - wikiHow](https://www.wikihow.com/Install-Cydia)
 * [Cydia Cloud | Cydia Download on all iOS version (No Jailbreak Needed)](https://www.cydiacloud.com/)
+* [[Help] Every version of Unc0ver is 'Unsupported'? : r/jailbreak](https://www.reddit.com/r/jailbreak/comments/11d4c2m/help_every_version_of_unc0ver_is_unsupported/)
+* [unc0ver 5 and iOS 12.4.7 | MacRumors Forums](https://forums.macrumors.com/threads/unc0ver-5-and-ios-12-4-7.2238024/)
 * 
