@@ -86,3 +86,48 @@ USB Error (Error code: -10)
 所以此处的最大心得是：
 
 （不论是Mac还是Win）电脑遇到（各种诡异的疑难杂症的）问题，实在不行，重启试试：仍是一大法宝。
+
+## checkra1n越狱后，iPhone桌面上看不到checkra1n图标
+
+* 现象：checkra1n越狱后，iPhone桌面上看不到checkra1n图标
+  * ![iphone_no_checkra1n_logo](../../../assets/img/iphone_no_checkra1n_logo.png)
+* 原因：估计是正在安装？
+* 解决办法：稍微等一会（大概几十秒后），即可出现checkra1n图标
+  * ![iphone_show_checkra1n_logo](../../../assets/img/iphone_show_checkra1n_logo.png)
+
+## checkra1n越狱后，点击各种越狱工具都无法正常启动
+
+### 现象
+
+最初安装了checkra1n后，当时桌面上看到的，各种app图标：
+
+![after_checkra1n_many_tool_icon](../../../assets/img/after_checkra1n_many_tool_icon.png)
+
+* Cydia
+* Filza
+* CocoaTop64
+
+但是，点击后，都会：闪退=崩溃=无法正常启动
+
+### 原因
+
+此处的：Cydia、Filza、CocoaTop64等越狱工具，都是之前（正常越狱后安装的，但是现在越狱丢失了而）残留的
+
+此时=实际上情况是：iPhone中是没有（安装）这些软件（Cydia）和插件（Filza、CocoaTop64）的
+
+### 解决办法
+
+对于这些越狱工具：
+
+* Cydia：是需要后续用checkra1n去安装的
+* 残留的插件（Filza、CocoaTop64）：是需要后续再单独去安装的
+
+#### 相关
+
+另外一个相关的现象是：
+
+后续checkra1n中正常安装了Cydia，Cydia打开有更新，去更新各种插件后，估计是内部触发了uicache的逻辑，使得桌面上的图标刷新了
+
+从而导致：之前残留的Filza、CocoaTop64等插件的图标，就消失了
+
+![checkra1n_uicache_icons_lost](../../../assets/img/checkra1n_uicache_icons_lost.png)

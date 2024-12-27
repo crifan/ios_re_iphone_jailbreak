@@ -26,6 +26,7 @@
 * 【已解决】给用unc0ver越狱的iPhone7恢复越狱状态
 * 【记录】用unc0ver还原卸载越狱环境
 * 【已解决】iOS14.3的iPhone8：运行unc0ver执行越狱过程
+* 【整理】用checkra1n给iPhone6越狱心得
 * 
 * [Help ! USB Error (Error code: -10) : r/checkra1n](https://www.reddit.com/r/checkra1n/comments/mbybs2/help_usb_error_error_code_10/)
 * [[Question] Can’t install Cydia on Chinese iPhone 8 Plus after jailbreaking with Checkra1n. I’m getting “The network connection was lost” error when I try to install Cydia using the checkra1n app. : r/jailbreak (reddit.com)](https://www.reddit.com/r/jailbreak/comments/yvexk9/question_cant_install_cydia_on_chinese_iphone_8/)
